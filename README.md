@@ -3,6 +3,7 @@
 
 
 
+We took a dataset of Uber rides in various cities, and attempted to visualize the relationship between various aspects and understand what drives the average fair of Uber rides in various type of cities.
 1. Pyber is most popular among drivers and riders in Urban cities, followed by Suburban.
 2. Pyber is comparitively cheaper in Urban regions.
 3. Number of drivers is correlated to number of rides in the city.

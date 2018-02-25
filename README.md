@@ -281,7 +281,7 @@ plt.show()
 ```
 
 
-![png](output_12_0.png)
+![png](Pie_Totalrides_citytype.png)
 
 
 # Drivers by City Type
@@ -302,7 +302,7 @@ plt.show()
 ```
 
 
-![png](output_14_0.png)
+![png](Pie_Totaldrivers_citytype.png)
 
 
 # Fare by City Type
@@ -323,5 +323,5 @@ plt.show()
 ```
 
 
-![png](output_16_0.png)
+![png](Pie_Totalfare_citytype.png)
 

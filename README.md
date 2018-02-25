@@ -188,7 +188,7 @@ plt.show()
 ```
 
 
-![png](Scatter Plot of rides by city type and fare.png)
+![png](Scatter_Plot_rides_by_citytype_fare.png)
 
 
 
